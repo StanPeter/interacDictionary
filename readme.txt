@@ -20,6 +20,3 @@ Instructions: (commands for Windows might differ)
 
     4. launch app.py and just follow it from there
 
-
-
-PS: programme will take some time to scrape all the pages
